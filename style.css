@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+.logo {
+  padding-top: 35px;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 5px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.text {
+  padding-top: 70px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.podcasts {
+  padding-top: 35px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+	text-align: center;
+	font-size: 85%;
+	font-family: 'Roboto';
+  font-weight: 300;
+  display: block;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: gray;
+}
+
+/* mouse over link */
+a:hover {
+  color: gray;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+.button {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
