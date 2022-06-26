@@ -37,6 +37,10 @@ body {
     font-size: 18px;
 }
 
+.cabecalho-menu-item:hover {
+    color: #004969;
+}
+
 .conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #001924;
@@ -125,4 +129,19 @@ body {
     height: 48px;
     display: block;
     margin: 0 auto;
+}
+
+.rodape-copyright {
+    color: aliceblue;
+    font-size: 12px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.rodape-copyright a {
+    color: aliceblue;
+}
+
+.rodape-copyright a:hover {
+    color: #001924;
 }
