@@ -145,3 +145,48 @@ body {
 .rodape-copyright a:hover {
     color: #001924;
 }
+
+.podcast-conteudo-escrito-logo {
+    padding-top: 30px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.conteudo-principal-escrito-titulo-podcast {
+    margin: 30px 0px;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 42px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.podcast-conteudo-escrito-botoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.conteudo-principal-escrito-botao-podcast {
+    background-color: aliceblue;
+    width: 130px;
+    height: 50px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #001924;
+    cursor: pointer;
+}
+
+.conteudo-principal-escrito-botao-podcast:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
+.iframe-spotify {
+    margin-top: 15px;
+}
