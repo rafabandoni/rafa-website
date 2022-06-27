@@ -1,3 +1,3 @@
-function openPage() {
-    window.open('https://github.com/rafabandoni')
+function openPage(link) {
+    window.open(link)
 }
