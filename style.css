@@ -191,3 +191,44 @@ body {
 .iframe-spotify {
     margin-top: 15px;
 }
+
+@media only screen and (max-width: 600px) {
+
+    .conteudo-principal {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+
+    .podcast-conteudo-escrito-botoes {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-bottom: 30px;
+        align-items: center;
+    }
+
+    .conteudo-principal-escrito-botao-podcast {
+        margin-bottom: 10px;
+    }
+
+    .conteudo-secundario {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+        margin-top: 10px;
+        width: 450px;
+    }
+
+    .conteudo-secundario-titulo {
+        text-align: center;
+    }
+    
+    .conteudo-secundario-paragrafo {
+        text-align: center;
+    }
+}
