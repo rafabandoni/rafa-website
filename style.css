@@ -196,6 +196,22 @@ body {
     margin-top: 15px;
 }
 
+.link-para-pix {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: aliceblue;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
+.apoio-podcast {
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
 @media only screen and (max-width: 600px) {
 
     .cabecalho {
