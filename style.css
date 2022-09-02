@@ -219,7 +219,7 @@ body {
     color: aliceblue;
     text-align: left;
     padding-top: 10px;
-    padding-bottom: 12px;
+    padding-bottom: 5px;
 }
 
 .titulo-indicacao {
@@ -231,7 +231,7 @@ body {
 .bloco-indicacao {
     margin-top: 15px;
     padding-top: 10px;
-    padding-bottom: 12px;
+    padding-bottom: 5px;
     display: flex;
     flex-direction: column;
     align-items: left;
