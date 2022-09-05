@@ -367,4 +367,12 @@ body {
         font-size: 13px;
         color: aliceblue;
     }
+
+    .imagem-indicacao {
+        width: 35%;
+    }
+
+    .qr-code-pix {
+        size: 50%;
+    }
 }
